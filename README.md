@@ -1,1 +1,2 @@
 # Hospital-Administration
+This Database is created for maintaining the Hospital Administration. Used the Microsoft SQL Server 2019 and Designed the ERD, EERD and relational schemas as per requirements using the Microsoft Visio and the Database Design Documents required. Worked on ETL in SQL Server and querying across different servers and on remote server using Microsoft Azure Data Studio. Used the Database Control Commands, Forced Execution plans for optimized database maintenance. Generated the required reports from the database using the Microsoft SQL Server Design Tools.
