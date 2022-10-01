@@ -1,6 +1,6 @@
 Tech stack: Microsoft - SQL Server 2019, Visio 2019, SQL Server Reporting Services.
 
-• Created a database for a Hospital using Microsoft SQL Server 2019 to manage daily administration tasks that occur in a hospital.
+• Created a database for a Hospital using Microsoft SQL Server 2019 to record the administrative tasks that happen in a hospital and generate reports regarding the nurses, nurse assignments to the wards, patients’ admissions, bed assignments, doctors, treatments, patient care, etc.
 
 • Created the database design document with the ERDS, EERDs, and Relational Schema using Microsoft Visio 2019.
 
