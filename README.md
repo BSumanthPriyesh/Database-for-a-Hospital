@@ -12,7 +12,7 @@ Tech stack: Microsoft - SQL Server 2019, Visio 2019, and SQL Server Reporting Se
 
 • Utilized the Indexing and Database Console Commands for performance tuning and generated the reports using the Microsoft SQL Server Reporting Services.
 
-*Added the visio files in VISIO folder which are used for data modeling and documentation.
+*Added the visio files in "Visio" directory which are used for data modeling and documentation.
 
 *Added the project's .mdf and .ldf files. Please download and load it through MS SQL Server to view the database and queries.
 
