@@ -1,4 +1,4 @@
-#Database for a Hospital
+# Database for a Hospital
 
 Tech stack: Microsoft - SQL Server 2019, Visio 2019, SQL Server Reporting Services.
 
